@@ -1,8 +1,5 @@
 """
 Patient Readmission Risk - Streamlit app.
-
-Run train_and_save_model.py first to generate the model files this app loads.
-Then launch with: streamlit run app.py
 """
 
 import streamlit as st
