@@ -25,7 +25,7 @@ The model reaches a test ROC-AUC of about 0.56, with recall on the readmitted cl
 
 - `patient_readmission_risk.ipynb` - the full notebook, from raw data to trained model, with the neural network concepts explained in plain language before the code
 - `train_and_save_model.py` - retrains the model from scratch and saves the files the app needs
-- `app.py` - the Streamlit app
+- `app.py` - the Streamlit app --- https://patient-readmission-pr.streamlit.app/
 - `requirements.txt` - dependencies for deployment
 - `README.md` - this file
 
